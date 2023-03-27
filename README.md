@@ -10,7 +10,7 @@ I'm a budding Systems Administrator/ DevOps Engineer and I'm passionate about sh
 - 🌱 I’m currently learning HTML, CSS and JavaScript.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Systems Administrator, Site Reliability Engineer, DevOps Engineer, or Cloud Engineer (Intern or Junior level).
-- 📫 You can [view my resume](#) and contact me by emailing olabodeadetula@yahoo.com.
+- 📫 You can [view my portfolio](#) and contact me by emailing olabodeadetula@yahoo.com.
 
 ---
 
