@@ -8,7 +8,7 @@ Jenkins, Ansible, Terraform and Docker, I'm passionate about sharing knowledge, 
 **Here's a quick summary about me**:
 
 - 💡  Fun fact: I'm an alumnus of AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m looking for  entry-level opportunities. 😊
+- 🌱 I’m open to entry-level opportunities. 😊
 - 💼 Job interests: Cloud Engineer, DevOps Engineer, Systems Administrator or Site Reliability Engineer (Entry-level or Junior level.)
 - 📫 You can [view my portfolio](#) and contact me by emailing olabodeadetula@yahoo.com.
 
